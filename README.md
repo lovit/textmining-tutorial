@@ -8,7 +8,7 @@
 ## Contents
 1. Python basic (작업중)
 1. From text to vector (KoNLPy) (작업중)
-1.1. n-gram
+    1. n-gram
 1. Word extraction and tokenization (Korean) (작업중)
 1. Document classification (작업중)
 1. Embedding for representation (작업중)
