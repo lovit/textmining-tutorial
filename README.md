@@ -13,6 +13,7 @@
 1. Document classification (작업중)
 1. Embedding for representation (작업중)
 1. Embedding for vector visualization (작업중)
+1. Keyword / Related words analysis (작업중)
 1. Document clustering (작업중)
 1. Finding similar documents (neighbor search) (작업중)
 1. TBD
