@@ -18,3 +18,7 @@
 1. Finding similar documents (neighbor search) (작업중)
 1. TBD
 
+## Thanks to
+노트와 튜토리얼의 리뷰를 도와준 [태욱][taewook_git], 감사합니다.
+
+[taewook_git]: https://github.com/Wook0129
