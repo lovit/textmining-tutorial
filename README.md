@@ -6,7 +6,8 @@
 - 이 자료는 [soynlp](https://github.com/lovit/soynlp) package를 이용합니다. 한국어 분석을 위한 자연어처리 코드입니다. soynlp 역시 현재 작업중입니다. 
 
 ## Contents
-1. Python basic (작업중)
+1. Python basic
+    1. jupyter tutorial
 1. From text to vector (KoNLPy) (작업중)
     1. n-gram
 1. Word extraction and tokenization (Korean) (작업중)
