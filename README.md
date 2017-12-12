@@ -11,7 +11,13 @@
 1. From text to vector (KoNLPy) (작업중)
     1. n-gram
 1. Word extraction and tokenization (Korean) (작업중)
-1. Document classification (작업중)
+1. Document classification (튜토리얼 작업중)
+    1. Logistic Regression
+    1. SVM (linear, RBF)
+    1. k-nearest neighbors classifier
+    1. From logistic regression to feed-forward neural network
+    1. Decision Tree
+    1. Naive Bayes
 1. Embedding for representation (작업중)
 1. Embedding for vector visualization (작업중)
 1. Keyword / Related words analysis (작업중)
