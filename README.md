@@ -8,8 +8,9 @@
 ## Contents
 1. Python basic
     1. jupyter tutorial
-1. From text to vector (KoNLPy) (작업중)
-    1. n-gram
+1. From text to vector (KoNLPy)
+    1. [x] n-gram
+    1. [x] from text to vector using KoNLPy
 1. Word extraction and tokenization (Korean) (작업중)
 1. Document classification (튜토리얼 작업중)
     1. Logistic Regression
