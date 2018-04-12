@@ -4,6 +4,7 @@
 
 - 이 자료는 현재 작업중이며, slide와 jupyter notebook example codes가 포함되어 있습니다. 
 - 이 자료는 [soynlp](https://github.com/lovit/soynlp) package를 이용합니다. 한국어 분석을 위한 자연어처리 코드입니다. soynlp 역시 현재 작업중입니다. 
+- Slides 내용에 관련된 texts 는 [blog][lovit_blog] 에 포스팅 중입니다.
 
 ## Contents
 1. Python basic
@@ -11,14 +12,18 @@
 1. From text to vector (KoNLPy)
     1. [x] n-gram
     1. [x] from text to vector using KoNLPy
-1. Word extraction and tokenization (Korean) (작업중)
-1. Document classification (튜토리얼 작업중)
-    1. Logistic Regression
-    1. SVM (linear, RBF)
-    1. k-nearest neighbors classifier
-    1. From logistic regression to feed-forward neural network
-    1. Decision Tree
-    1. Naive Bayes
+1. Word extraction and tokenization (Korean)
+    1. [x] word extractor
+    1. [x] unsupervised tokenizer
+    1. [x] noun extractor
+    1. [] dictionary based pos tagger
+1. Document classification
+    1. [x] Logistic Regression and Lasso regression
+    1. [x] SVM (linear, RBF)
+    1. [x] k-nearest neighbors classifier
+    1. [x] Feed-forward neural network
+    1. [x] Decision Tree
+    1. [x] Naive Bayes
 1. Embedding for representation (작업중)
 1. Embedding for vector visualization (작업중)
 1. Keyword / Related words analysis (작업중)
@@ -30,3 +35,4 @@
 노트와 튜토리얼의 리뷰를 도와준 [태욱][taewook_git], 감사합니다.
 
 [taewook_git]: https://github.com/Wook0129
+[lovit_blog]: https://lovit.github.io
