@@ -16,7 +16,7 @@
     1. [x] word extractor
     1. [x] unsupervised tokenizer
     1. [x] noun extractor
-    1. [] dictionary based pos tagger
+    1. [x] dictionary based pos tagger
 1. Document classification
     1. [x] Logistic Regression and Lasso regression
     1. [x] SVM (linear, RBF)
@@ -27,8 +27,16 @@
 1. Embedding for representation (작업중)
 1. Embedding for vector visualization (작업중)
 1. Keyword / Related words analysis (작업중)
+    1. [x] co-occurrence based keyword / related word analysis
+    1. [ ] kr-wordrank keyword extraction
 1. Document clustering (작업중)
 1. Finding similar documents (neighbor search) (작업중)
+    1. [ ] Locality Sensitive Hashing
+    1. [ ] Inverted Index
+1. Graph similarity
+    1. [ ] SimRank & Random Walk with Restart
+1. String similarity
+    1. [ ] Levenshtein / Cosine / Jaccard distance
 1. TBD
 
 ## Thanks to
