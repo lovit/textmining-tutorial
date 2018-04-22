@@ -37,6 +37,8 @@
     1. [ ] SimRank & Random Walk with Restart
 1. String similarity
     1. [ ] Levenshtein / Cosine / Jaccard distance
+1. Applications
+    1. [x] soyspacing: heuristic Korean space correction
 1. TBD
 
 ## Thanks to
