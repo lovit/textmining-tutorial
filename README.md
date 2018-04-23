@@ -24,6 +24,8 @@
     1. [x] Feed-forward neural network
     1. [x] Decision Tree
     1. [x] Naive Bayes
+1. Sequential labeling
+    1. [x] Conditional Random Field
 1. Embedding for representation (작업중)
 1. Embedding for vector visualization (작업중)
 1. Keyword / Related words analysis (작업중)
@@ -39,6 +41,8 @@
     1. [ ] Levenshtein / Cosine / Jaccard distance
 1. Applications
     1. [x] soyspacing: heuristic Korean space correction
+    1. [x] crf-based Korean soace correction
+    1. [ ] semantic movie search using IMDB
 1. TBD
 
 ## Thanks to
