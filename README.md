@@ -26,19 +26,32 @@
     1. [x] Naive Bayes
 1. Sequential labeling
     1. [x] Conditional Random Field
-1. Embedding for representation (작업중)
-1. Embedding for vector visualization (작업중)
+1. Embedding for representation
+    1. [x] Word2Vec / Doc2Vec
+    1. [x] GloVe
+    1. [x] FastText (word embedding using subword)
+    1. [x] FastText (supervised word embedding)
+    1. [x] Sparse Coding
+    1. [x] Nonnegative Matrix Factorization (NMF) for topic modeling
+1. Embedding for vector visualization
+    1. [x] MDS, ISOMAP, Locally Linear Embedding, PCA, Kernel PCA
+    1. [x] t-SNE
+    1. [ ] t-SNE (detailed)
 1. Keyword / Related words analysis (작업중)
     1. [x] co-occurrence based keyword / related word analysis
-    1. [ ] kr-wordrank keyword extraction
-1. Document clustering (작업중)
-1. Finding similar documents (neighbor search) (작업중)
-    1. [ ] Locality Sensitive Hashing
-    1. [ ] Inverted Index
-1. Graph similarity
-    1. [ ] SimRank & Random Walk with Restart
+1. Document clustering
+    1. [x] k-means is good for document clustering
+    1. [x] DBSCAN, hierarchical, GMM, BGMM are not suitable for document clustering
+1. Finding similar documents (neighbor search)
+    1. [x] Random Projection
+    1. [x] Locality Sensitive Hashing
+    1. [x] Inverted Index
+1. Graph similarity and ranking (centrality)
+    1. [x] SimRank & Random Walk with Restart
+    1. [x] PageRank, HITS, WordRank, TextRank
+    1. [x] kr-wordrank keyword extraction
 1. String similarity
-    1. [ ] Levenshtein / Cosine / Jaccard distance
+    1. [x] Levenshtein / Cosine / Jaccard distance
 1. Applications
     1. [x] soyspacing: heuristic Korean space correction
     1. [x] crf-based Korean soace correction
