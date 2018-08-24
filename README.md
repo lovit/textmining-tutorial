@@ -37,7 +37,7 @@
     1. [x] MDS, ISOMAP, Locally Linear Embedding, PCA, Kernel PCA
     1. [x] t-SNE
     1. [ ] t-SNE (detailed)
-1. Keyword / Related words analysis (작업중)
+1. Keyword / Related words analysis
     1. [x] co-occurrence based keyword / related word analysis
 1. Document clustering
     1. [x] k-means is good for document clustering
