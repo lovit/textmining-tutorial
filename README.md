@@ -55,6 +55,7 @@
 1. Applications
     1. [x] soyspacing: heuristic Korean space correction
     1. [x] crf-based Korean soace correction
+    1. [x] HMM & CRF-based part-of-speech tagger (morphological analyzer)
     1. [ ] semantic movie search using IMDB
 1. TBD
 
