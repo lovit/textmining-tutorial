@@ -52,6 +52,11 @@
     1. [x] kr-wordrank keyword extraction
 1. String similarity
     1. [x] Levenshtein / Cosine / Jaccard distance
+1. Convolutional Neural Network (CNN)
+    1. [x] Introduction of CNN
+    1. [x] CNN in NLP
+1. Recurrent Neural Network (RNN)
+    1. [x] Introduction of RNN
 1. Applications
     1. [x] soyspacing: heuristic Korean space correction
     1. [x] crf-based Korean soace correction
