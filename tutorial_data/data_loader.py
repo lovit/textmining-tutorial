@@ -1,6 +1,11 @@
+import os
+
+installpath = os.path.dirname(os.path.realpath(__file__))
+
+
 def get_lalaland_comments(n_limit=-1):
 
-    fname = './lalaland_comments.txt'
+    fname = '%s/lalaland_comments.txt' % installpath
 
     with open(fname, encoding='utf-8') as f:
         scores = []
