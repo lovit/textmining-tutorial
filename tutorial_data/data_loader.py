@@ -3,7 +3,6 @@ def get_lalaland_comments(n_limit=-1):
     fname = './lalaland_comments.txt'
 
     with open(fname, encoding='utf-8') as f:
-        idxs = []
         scores = []
         texts = []
 
@@ -12,13 +11,11 @@ def get_lalaland_comments(n_limit=-1):
                 break
 
             try:
-                idx, text, score = doc.strip().split('\t')
-                idxs.append(idx)
+                text, score = doc.strip().split('\t')
                 texts.append(text)
                 scores.append(int(score))
-
             except Exception as e:
                 print(e)
                 continue
 
-    return idxs, texts, scores
+    return texts, scores
