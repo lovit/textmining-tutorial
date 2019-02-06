@@ -5,6 +5,7 @@
 - 이 자료는 현재 작업중이며, slide와 jupyter notebook example codes가 포함되어 있습니다. 
 - 이 자료는 [soynlp](https://github.com/lovit/soynlp) package를 이용합니다. 한국어 분석을 위한 자연어처리 코드입니다. soynlp 역시 현재 작업중입니다. 
 - Slides 내용에 관련된 texts 는 [blog][lovit_blog] 에 포스팅 중입니다.
+- 실습코드는 [코드 repository](https://github.com/lovit/python_ml4nlp) 에 있습니다.
 
 ## Contents
 1. Python basic
