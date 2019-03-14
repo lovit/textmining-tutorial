@@ -55,9 +55,17 @@
     1. [x] Levenshtein / Cosine / Jaccard distance
 1. Convolutional Neural Network (CNN)
     1. [x] Introduction of CNN
-    1. [x] CNN in NLP
+    1. [x] Word-level CNN for sentence classification (Yoon Kim)
+    1. [x] Character-level CNN (LeCun)
+    1. [x] BOW-CNN
 1. Recurrent Neural Network (RNN)
     1. [x] Introduction of RNN
+    1. [x] LSTM, GRU
+    1. [x] Deep RNN & ELMo
+    1. [x] Sequence to sequence & seq2seq with attention
+    1. [x] Attention mechanism for sentence classification
+    1. [x] Hierarchical Attention Network (HAN) for document classification
+    1. [x] Transformer & BERT
 1. Applications
     1. [x] soyspacing: heuristic Korean space correction
     1. [x] crf-based Korean soace correction
