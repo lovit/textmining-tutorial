@@ -63,6 +63,7 @@
     1. [x] LSTM, GRU
     1. [x] Deep RNN & ELMo
     1. [x] Sequence to sequence & seq2seq with attention
+    1. [x] Skip-thought vector
     1. [x] Attention mechanism for sentence classification
     1. [x] Hierarchical Attention Network (HAN) for document classification
     1. [x] Transformer & BERT
