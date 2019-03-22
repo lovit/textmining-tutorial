@@ -42,7 +42,7 @@
     1. [x] co-occurrence based keyword / related word analysis
 1. Document clustering
     1. [x] k-means is good for document clustering
-    1. [x] DBSCAN, hierarchical, GMM, BGMM are not suitable for document clustering
+    1. [x] DBSCAN, hierarchical, GMM, BGMM are not appropriate for document clustering
 1. Finding similar documents (neighbor search)
     1. [x] Random Projection
     1. [x] Locality Sensitive Hashing
