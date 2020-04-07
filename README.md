@@ -78,5 +78,5 @@
 
 자료를 리뷰하고 함께 토론해주는 고마운 동료들이 많습니다. 특히 많은 시간과 정성을 들여 도와주는 [태욱][taewook_git]에게 고마움을 표합니다.
 
-[taewook_git]: https://github.com/Wook0129
+[taewook_git]: https://github.com/hungry-wook
 [lovit_blog]: https://lovit.github.io
